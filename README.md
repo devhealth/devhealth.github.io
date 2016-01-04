@@ -1,12 +1,12 @@
 
-# DevNaEsteira
+# DevRunning
 
-Diz a lenda que, desenvolvedor barrigudo(a) é mais experiente. Mas como lenda é lenda, chegou a hora de deixar a preguiça de lado e começar a fazer exercícios físicos.
+Say the legend that a corpulent developer is more experienced. But, how legend is a legend the time is coming to leave the laziness and start to running and make exercises.
 
-Os motivos são variados e provavelmente você já sabe, por isso vamos começar a escrever sobre a rotina de alguns desenvolvedores(as) nessa batalha contra o sedentarismo.
+The motivations are varied and probably you already know it, but let's start to write about the developers routine on this fight against sedentary.
 
-Bem-vindos ao DevNaEsteira.
+Welcome to DevRunning.
 
-## Apoio
+## Support
 
-Estamos apoiados pelos nossos amigos do [DevNaEstrada](devnaestrada.com.br).
+We are supported from our friends of [DevNaEstrada](devnaestrada.com.br), a brazilian podcast from developers to developers.
