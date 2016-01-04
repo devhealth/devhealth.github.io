@@ -5,23 +5,21 @@
     <description>Our description</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 04 Jan 2016 18:40:41 -0200</pubDate>
-    <lastBuildDate>Mon, 04 Jan 2016 18:40:41 -0200</lastBuildDate>
+    <pubDate>Mon, 04 Jan 2016 19:46:10 -0200</pubDate>
+    <lastBuildDate>Mon, 04 Jan 2016 19:46:10 -0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Hello Manifest</title>
-        <description>&lt;p&gt;
-  Diz a lenda que, desenvolvedor barrigudo(a) é mais experiente. Mas como lenda é lenda, chegou a hora de deixar a preguiça de lado e começar a fazer exercícios físicos.
-&lt;/p&gt;
+        <description>&lt;p&gt;Say the legend that a corpulent developer is more experienced. But, how legend is a legend the time is coming to leave the laziness and start to running and make exercises.&lt;/p&gt;
 
-&lt;p&gt;
-  Os motivos são variados e provavelmente você já sabe, por isso vamos começar a escrever sobre a rotina de alguns desenvolvedores(as) nessa batalha contra o sedentarismo.
-&lt;/p&gt;
+&lt;p&gt;The motivations are varied and probably you already know it, but let’s start to write about the developers routine on this fight against sedentary.&lt;/p&gt;
 
-&lt;p&gt;
-  Bem-vindos ao DevNaEsteira.
-&lt;/p&gt;
+&lt;p&gt;Welcome to DevRunning.&lt;/p&gt;
+
+&lt;h2 id=&quot;support&quot;&gt;Support&lt;/h2&gt;
+
+&lt;p&gt;We are supported from our friends of &lt;a href=&quot;http://devnaestrada.com.br&quot;&gt;DevNaEstrada&lt;/a&gt;, a brazilian podcast from developers to developers.&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Jan 2016 16:00:00 -0200</pubDate>
         <link>/2016/01/04/manifest/</link>
