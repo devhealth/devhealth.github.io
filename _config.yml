@@ -1,12 +1,12 @@
 # Site settings
 title: devrunning
 header-img: img/home-bg.jpg
-email: 
+email:
 description: "Our description"
-baseurl: ""
+baseurl: "blog"
 url: ""
 twitter_username:
-github_username: 
+github_username:
 facebook_username:
 
 # Build settings
