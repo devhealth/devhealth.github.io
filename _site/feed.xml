@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devrunning</title>
+    <description>Our description</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 04 Jan 2016 18:40:41 -0200</pubDate>
+    <lastBuildDate>Mon, 04 Jan 2016 18:40:41 -0200</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Hello Manifest</title>
+        <description>&lt;p&gt;
+  Diz a lenda que, desenvolvedor barrigudo(a) é mais experiente. Mas como lenda é lenda, chegou a hora de deixar a preguiça de lado e começar a fazer exercícios físicos.
+&lt;/p&gt;
+
+&lt;p&gt;
+  Os motivos são variados e provavelmente você já sabe, por isso vamos começar a escrever sobre a rotina de alguns desenvolvedores(as) nessa batalha contra o sedentarismo.
+&lt;/p&gt;
+
+&lt;p&gt;
+  Bem-vindos ao DevNaEsteira.
+&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Jan 2016 16:00:00 -0200</pubDate>
+        <link>/2016/01/04/manifest/</link>
+        <guid isPermaLink="true">/2016/01/04/manifest/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
