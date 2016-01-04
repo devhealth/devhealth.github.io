@@ -3,7 +3,7 @@ title: devrunning
 header-img: img/home-bg.jpg
 email:
 description: "DevRunning"
-baseurl: ""
+baseurl: "/blog"
 url: ""
 twitter_username:
 github_username:
