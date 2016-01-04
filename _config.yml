@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 email:
 description: "DevRunning"
 baseurl: "/blog"
-url: ""
+url: "https://devrunning.github.io"
 twitter_username:
 github_username:
 facebook_username:
