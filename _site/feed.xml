@@ -3,10 +3,10 @@
   <channel>
     <title>DevHealth</title>
     <description>Because Developers could be health</description>
-    <link>https://devhealth.github.io/blog/</link>
-    <atom:link href="https://devhealth.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 11 Jan 2016 01:09:29 -0200</pubDate>
-    <lastBuildDate>Mon, 11 Jan 2016 01:09:29 -0200</lastBuildDate>
+    <link>https://devhealth.github.io/</link>
+    <atom:link href="https://devhealth.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 11 Jan 2016 01:38:09 -0200</pubDate>
+    <lastBuildDate>Mon, 11 Jan 2016 01:38:09 -0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -22,8 +22,8 @@
 &lt;p&gt;We are supported from our friends of &lt;a href=&quot;http://devnaestrada.com.br&quot;&gt;DevNaEstrada&lt;/a&gt;, a brazilian podcast from developers to developers.&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Jan 2016 16:00:00 -0200</pubDate>
-        <link>https://devhealth.github.io/blog/2016/01/04/manifest/</link>
-        <guid isPermaLink="true">https://devhealth.github.io/blog/2016/01/04/manifest/</guid>
+        <link>https://devhealth.github.io/2016/01/04/manifest/</link>
+        <guid isPermaLink="true">https://devhealth.github.io/2016/01/04/manifest/</guid>
         
         
       </item>
