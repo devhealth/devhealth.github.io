@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>devrunning</title>
-    <description>DevRunning</description>
-    <link>https://devrunning.github.io/blog/</link>
-    <atom:link href="https://devrunning.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 04 Jan 2016 21:27:00 -0200</pubDate>
-    <lastBuildDate>Mon, 04 Jan 2016 21:27:00 -0200</lastBuildDate>
+    <title>DevHealth</title>
+    <description>Because Developers could be health</description>
+    <link>https://devhealth.github.io/blog/</link>
+    <atom:link href="https://devhealth.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 11 Jan 2016 01:09:29 -0200</pubDate>
+    <lastBuildDate>Mon, 11 Jan 2016 01:09:29 -0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Hello Manifest</title>
-        <description>&lt;p&gt;Say the legend that a corpulent developer is more experienced. But, how legend is a legend the time is coming to leave the laziness and start to running and make exercises.&lt;/p&gt;
+        <description>&lt;p&gt;Say the legend that a chubby developer is more experienced. But, how legend is a legend the time is coming to leave the laziness and start to running and make exercises.&lt;/p&gt;
 
 &lt;p&gt;The motivations are varied and probably you already know it, but let’s start to write about the developers routine on this fight against sedentary.&lt;/p&gt;
 
-&lt;p&gt;Welcome to DevRunning.&lt;/p&gt;
+&lt;p&gt;Welcome to DevHealth.&lt;/p&gt;
 
 &lt;h2 id=&quot;support&quot;&gt;Support&lt;/h2&gt;
 
 &lt;p&gt;We are supported from our friends of &lt;a href=&quot;http://devnaestrada.com.br&quot;&gt;DevNaEstrada&lt;/a&gt;, a brazilian podcast from developers to developers.&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Jan 2016 16:00:00 -0200</pubDate>
-        <link>https://devrunning.github.io/blog/2016/01/04/manifest/</link>
-        <guid isPermaLink="true">https://devrunning.github.io/blog/2016/01/04/manifest/</guid>
+        <link>https://devhealth.github.io/blog/2016/01/04/manifest/</link>
+        <guid isPermaLink="true">https://devhealth.github.io/blog/2016/01/04/manifest/</guid>
         
         
       </item>

@@ -1,10 +1,10 @@
 # Site settings
-title: devrunning
+title: DevHealth
 header-img: img/home-bg.jpg
 email:
-description: "DevRunning"
+description: "Because Developers could be health"
 baseurl: "/blog"
-url: "https://devrunning.github.io"
+url: "https://devhealth.github.io"
 twitter_username:
 github_username:
 facebook_username:
