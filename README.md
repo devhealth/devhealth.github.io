@@ -10,3 +10,7 @@ Welcome to DevHealth.
 ## Support
 
 We are supported from our friends of [DevNaEstrada](devnaestrada.com.br), a brazilian podcast from developers to developers.
+
+## How to install
+
+Use `npm install` and `bundle install`. Node.js and Ruby are required.
