@@ -22,7 +22,9 @@ Before start to run, it's healthy make some stretching exercises. Another thing 
 One last tip is ignore the other people around. Focus on your step and listen some music or a podcast (like devnaestrada.com.br =D).
 
 
-<img src="/img/IMG_6248.jpg" alt="me after workout" class="img-thumbnail" />
+<div class="thumbnail">
+  <img src="/img/IMG_6248.jpg" alt="me after workout" class="img-rounded" />
+</div>
 
 \* The guy on the treadmill it is not me, ok? But could be... :/
 

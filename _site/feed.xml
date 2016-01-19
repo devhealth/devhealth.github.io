@@ -5,8 +5,8 @@
     <description>Because Developers could be health</description>
     <link>https://devhealth.github.io/</link>
     <atom:link href="https://devhealth.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 18 Jan 2016 22:04:44 -0200</pubDate>
-    <lastBuildDate>Mon, 18 Jan 2016 22:04:44 -0200</lastBuildDate>
+    <pubDate>Mon, 18 Jan 2016 22:08:43 -0200</pubDate>
+    <lastBuildDate>Mon, 18 Jan 2016 22:08:43 -0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -25,7 +25,9 @@
 
 &lt;p&gt;One last tip is ignore the other people around. Focus on your step and listen some music or a podcast (like devnaestrada.com.br =D).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/IMG_6248.jpg&quot; alt=&quot;me after workout&quot; class=&quot;img-thumbnail&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;thumbnail&quot;&gt;
+  &lt;img src=&quot;/img/IMG_6248.jpg&quot; alt=&quot;me after workout&quot; class=&quot;img-rounded&quot; /&gt;
+&lt;/div&gt;
 
 &lt;p&gt;* The guy on the treadmill it is not me, ok? But could be… :/&lt;/p&gt;
 
