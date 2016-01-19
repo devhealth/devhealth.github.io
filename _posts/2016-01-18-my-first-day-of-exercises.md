@@ -19,7 +19,7 @@ But ok, it's my first day. I will not give up! No problem if the people on my si
 
 Before start to run, it's healthy make some stretching exercises. Another thing is start slowly and increase velocity step by step.
 
-One last tip is ignore the other people around. Focus on your step and listen some music or a podcast (like devnaestrada.com.br =D).
+One last tip is ignore the other people around. Focus on your step and listen some music or a podcast (like [devnaestrada.com.br](http://devnaestrada.com.br) =D).
 
 
 <div class="thumbnail">
